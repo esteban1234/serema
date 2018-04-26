@@ -2,10 +2,10 @@
 <html lang="es">
   <head>
     <meta charset="utf-8">
-    
+
     <link rel="icon" type="image/png" href="img/favicon.png" />
     <title>SERVICIOS Y REFACCIONES DEL MAYAB</title>
-   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
+   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <META NAME="Title" content="SERVICIOS Y REFACCIONES DEL MAYAB">
     <META NAME="Author" CONTENT="[http://seremaservicios.com/]"/>
     <META name="Description" content="Somos una compañía dedicados a ofrecer servicios de comercialización de refacciones de automoviles."/>
@@ -39,7 +39,7 @@
   </head>
   <body>
 
-    
+
 
     <div class="banner"  id="INICIO">
     <div class="fondo">
@@ -59,7 +59,7 @@
 
         <div class="openclose">
           <i class="fa fa-bars open" aria-hidden="true"></i>
-        </div>  
+        </div>
       </div>
 
       <h1 class="tit-cc">Tus Autorrepuestos de Confianza</h1>
@@ -124,7 +124,7 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
         </div>
       </div>
     </div>
- 
+
 </section>
 
 <section class="seccion2"  id="SERVICIOS">
@@ -225,31 +225,31 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
     <h1 class="header-title" style="text-transform: uppercase;"> Formulario de contacto</h1> <br>
     <p class="subtit" style="color: #fff;">Agradecemos su interés en nuestros productos y servicios. Nos gustaría escucharte y saber qué buscas para tu auto o flotilla, brindándote la información necesaria para que tomes la mejor decisión. Habla con un asesor especializado para que resuelva todas tus dudas y te ayude brindándote el servicio que se adapte a tus necesidades</p>
     <hr> <br class="delete-br">
-    <div class="col-sm-12 col-md-6" id="parent">
+    <div class="col-sm-12 col-md-12" id="parent">
       <div class="col-sm-6 col-md-6">
 
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d931.2762996712628!2d-89.69328937082277!3d20.98841539912627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5673505aa7b7ef%3A0x48a95828b5114060!2zQ2FsbGUgNjLhtKwsIENkIENhdWNlbCwgOTczMTQgTcOpcmlkYSwgWXVjLg!5e0!3m2!1ses-419!2smx!4v1524506860777" width="100%" height="320px" frameborder="0" style="border:0" allowfullscreen></iframe>
-      
+
       </div>
 
       <div class="col-sm-6 col-md-6">
         <form action="form.php" class="contact-form" method="post" onSubmit="return false">
-  
+
             <div class="form-group">
               <input type="text" class="form-control" id="txtNOMBRE" name="nm" placeholder="Nombre" required="" >
             </div>
-        
-        
+
+
             <div class="form-group form_left">
               <input type="email" class="form-control" id="txtCORREO" name="em" placeholder="Correo" required="">
             </div>
-        
+
           <div class="form-group">
                <input type="text" class="form-control" id="txtTELEFONO" maxlength="10" placeholder="Teléfono" required="">
           </div>
           <div class="form-group">
           <textarea class="form-control textarea-contact" rows="5" id="txtCOMENTARIO" name="FB" placeholder="Escribe tu comentario" required=""></textarea>
-          
+
           <br>
           <div id="_AJAX_PRE_"></div>
             <button class="btn btn-default btn-send" onclick="sendCORREO()"> <span class=" fab fa-telegram-plane"></span> Enviar </button>
@@ -261,9 +261,9 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
 
   <div class="container second-portion">
   <div class="row cont-portion">
-       
+
       <div class="col-sm-6 col-md-3">
-      <div class="box">             
+      <div class="box">
         <div class="icon">
           <div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
           <div class="info">
@@ -274,15 +274,15 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
               <br>
               <i class="fa fa-globe" aria-hidden="true"></i> &nbsp www.seremaservicios.com
             </p>
-          
+
           </div>
         </div>
         <div class="space"></div>
-      </div> 
+      </div>
     </div>
-      
+
         <div class="col-sm-6 col-md-3">
-      <div class="box">             
+      <div class="box">
         <div class="icon">
           <div class="image"><i class="fa fa-mobile" aria-hidden="true"></i></div>
           <div class="info">
@@ -296,11 +296,11 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
           </div>
         </div>
         <div class="space"></div>
-      </div> 
+      </div>
     </div>
       <div class="clearfix visible-sm"></div>
         <div class="col-sm-6 col-md-3">
-      <div class="box">             
+      <div class="box">
         <div class="icon">
           <div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
           <div class="info">
@@ -311,11 +311,11 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
           </div>
         </div>
         <div class="space"></div>
-      </div> 
+      </div>
     </div>
 
     <div class="col-sm-6 col-md-3">
-      <div class="box">             
+      <div class="box">
         <div class="icon">
           <div class="image"><i class="fa fa-clock" aria-hidden="true"></i></div>
           <div class="info">
@@ -326,9 +326,9 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
           </div>
         </div>
         <div class="space"></div>
-      </div> 
-    </div>         
-      
+      </div>
+    </div>
+
   </div>
 </div>
 

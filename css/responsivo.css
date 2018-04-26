@@ -44,7 +44,7 @@
 	}
 
 	.openclose{
-		
+
 		position: fixed;
 		right: 50px;
 		top: 20px;
@@ -57,7 +57,7 @@
 
 	.openclose i{
 		font-size: 25px;
-	}	
+	}
 /******************END MENU***********************/
 
 /*********************INICIO************************/
@@ -79,7 +79,7 @@
 		margin-bottom: 20px;
 	}
 /******************END INICIO***********************/
-	
+
 /*********************SECCION1************************/
 	.leyenda p{
 		font-size: 18px;
@@ -234,7 +234,7 @@
 	}
 
 	.openclose{
-		
+
 		position: fixed;
 		right: 50px;
 		top: 20px;
@@ -247,7 +247,7 @@
 
 	.openclose i{
 		font-size: 25px;
-	}	
+	}
 /******************END MENU***********************/
 
 /*********************INICIO************************/
@@ -269,7 +269,7 @@
 		margin-bottom: 20px;
 	}
 /******************END INICIO***********************/
-	
+
 /*********************SECCION1************************/
 	.leyenda p{
 		font-size: 18px;
@@ -421,7 +421,7 @@
 	}
 
 	.openclose{
-		
+
 		position: fixed;
 		right: 50px;
 		top: 20px;
@@ -434,7 +434,7 @@
 
 	.openclose i{
 		font-size: 25px;
-	}	
+	}
 /******************END MENU***********************/
 
 /*********************INICIO************************/
@@ -456,7 +456,7 @@
 		margin-bottom: 20px;
 	}
 /******************END INICIO***********************/
-	
+
 /*********************SECCION1************************/
 	.leyenda p{
 		font-size: 18px;
@@ -578,26 +578,33 @@
 
 @media screen and (max-width: 1023px) and (min-width: 800px) {
 
+	.delete-br{
+		display: none;
+	}
+
 /*********************INICIO************************/
 	.fondo, .banner{
 		height: 100%;
 	}
 
+	.menu{
+		margin-bottom: 100px;
+	}
+
 	.tit-cc{
-		width: 100% !important;
 		font-size: 25px !important;
+		text-align: center !important;
 	}
 
 	.subtit-cc{
 		font-size: 17px !important;
-		width: 100% !important;
 	}
 
 	.boton{
 		margin-bottom: 20px;
 	}
 /******************END INICIO***********************/
-	
+
 /*********************SECCION1************************/
 	.leyenda p{
 		font-size: 18px;
@@ -623,10 +630,6 @@
 	.txt-tva{
 		text-align: center;
 	}
-
-	/*.cont-img{
-		border: 2px solid red;
-	}*/
 
 	.cont-img img{
 		margin: auto !important;
@@ -679,12 +682,26 @@
 	}
 /******************END SECCION2***********************/
 
-	
+.seccion3{
+	padding: 0px !important;
+}
+
 }
 
 @media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
-	
+	.tit-cc{
+		font-size: 40px !important;
+	}
+
+	.seccion3{
+		padding: 0px !important;
+	}
+
+	.cont-sec2{
+		padding: 0px !important;
+	}
+
 }
-@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+/* @media screen and (max-width: 1366px) and (min-width: 1024px) { } */
 
 @media screen and (min-width: 1367px) { }

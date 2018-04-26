@@ -80,33 +80,27 @@
 
   <div class="section" style="padding: 5% 0%;">
       <div class="container">
-        <!-- <div class="row">
-          <div class="col-md-12">
-            <h1 class="text-center">Team</h1>
-            <p class="text-center">We are a group of skilled individuals.</p>
-          </div>
-        </div> -->
         <div class="row">
-          <div class="col-md-1">
+          <div class="col-sm-1 col-md-1 cont-i">
             <i class="fas fa-calendar-check fa-5x"></i>
           </div>
-          <div class="col-md-3">
-            <h3 class="text-left">Todas las marcas</h3>
-            <p class="text-left">Con amplio stock y variedad de productos, ofrecemos repuestos para todas las marcas de vehículos y modelos del mercado.</p>
+          <div class="col-sm-3 col-md-3">
+            <h3 class="text-left tit-tva">Todas las marcas</h3>
+            <p class="text-left txt-tva">Con amplio stock y variedad de productos, ofrecemos repuestos para todas las marcas de vehículos y modelos del mercado.</p>
           </div>
-          <div class="col-md-1">
+          <div class="col-sm-1 col-md-1 cont-i">
             <i class="fas fa-cubes fa-5x"></i>
           </div>
-          <div class="col-md-3">
-            <h3 class="text-left">Variedad de Productos</h3>
-            <p class="text-left">Nuestro amplio catálogo de productos le brinda seguridad de encontrar todo lo que usted necesite al instante.</p>
+          <div class="col-sm-3 col-md-3">
+            <h3 class="text-left tit-tva">Variedad de Productos</h3>
+            <p class="text-left txt-tva">Nuestro amplio catálogo de productos le brinda seguridad de encontrar todo lo que usted necesite al instante.</p>
           </div>
-          <div class="col-md-1">
+          <div class="col-sm-1 col-md-1 cont-i">
             <i class="fas fa-users fa-5x"></i>
           </div>
-          <div class="col-md-3">
-            <h3 class="text-left">Atención personalizada</h3>
-            <p class="text-left">Con una clara vocación de servicio, nuestro personal se encargará de asesorarlo para obtener el mejor producto para su vehículo.</p>
+          <div class="col-sm-3 col-md-3">
+            <h3 class="text-left tit-tva">Atención personalizada</h3>
+            <p class="text-left txt-tva">Con una clara vocación de servicio, nuestro personal se encargará de asesorarlo para obtener el mejor producto para su vehículo.</p>
           </div>
         </div>
       </div>
@@ -116,14 +110,13 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-md-6">
-            <img src="img/nosotros.png"
-            class="img-responsive">
+          <div class="col-sm-12 col-md-6 cont-img">
+            <img src="img/nosotros.png" class="img-responsive">
           </div>
-          <div class="col-md-6">
-            <h1 style="color: #fff;">Nosotros</h1>
-            <h3 style="color: #fff;">Servicios y refacciones del mayab</h3>
-            <p style="color: #fff;">SEREMA es una empresa en constante crecimiento, con marcada participación en el mercado de Repuestos de la zona y con una fuerte tendencia de progreso en el mercado de la industria autopartista.
+          <div class="col-sm-12 col-md-6">
+            <h1 class="tit-n" style="color: #fff;">Nosotros</h1>
+            <h3 class="subtit-n" style="color: #fff;">Servicios y refacciones del mayab</h3>
+            <p class="txt-n" style="color: #fff;">SEREMA es una empresa en constante crecimiento, con marcada participación en el mercado de Repuestos de la zona y con una fuerte tendencia de progreso en el mercado de la industria autopartista.
 La visión táctica e integral de su propietario y fundador ha llevado a desarrollar a la empresa a niveles de calidad óptimos tanto en el negocio minorista como también en la distribución mayorista.
 En la Empresa se apunta también a la Responsabilidad Social Empresaria, al desarrollo constante de los RRHH y el logro de diversos objetivos más allá de la estrategia comercial.
 El espíritu de la Empresa es la total satisfacción de los clientes y en lo interno el trabajo armónico y eficiente.</p>
@@ -136,18 +129,18 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
 
 <section class="seccion2"  id="SERVICIOS">
 
-  <div class="section" style="padding: 5%;">
+  <div class="section cont-sec2" style="padding: 5%;">
       <div class="container">
-        <h1 class="text-center" style="color: #4E8831; text-transform: uppercase;">Productos</h1> <br>
+        <h1 class="text-center tit-p" style="color: #4E8831; text-transform: uppercase;">Productos</h1> <br class="delete-br">
         <p class="subtit">¿No encuentra el repuesto que necesita?
-            No dude en consultarnos y le responderemos a la brevedad.</p> <br><br>
+            No dude en consultarnos y le responderemos a la brevedad.</p> <br class="delete-br"><br>
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <div class="imagen">
               <!-- <img src="img/sistema.jpg"  class="img-responsive"> -->
             </div>
-            <h4 class="text-center" style="color: #4E8831;">SISTEMA DE ENFRIAMIENTO</h4>
-            <p>
+            <h4 class="text-center tit-saeo" style="color: #4E8831;">SISTEMA DE ENFRIAMIENTO</h4>
+            <p class="txt-saeo">
               <i class="fas fa-angle-double-right"></i> Radiadores <br>
               <i class="fas fa-angle-double-right"></i> Posenfriadores <br>
               <i class="fas fa-angle-double-right"></i> Anticongelante <br>
@@ -162,12 +155,12 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
 
             </p>
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <div class="imagen2">
               <!-- <img src="img/sistema.jpg"  class="img-responsive"> -->
             </div>
-            <h4 class="text-center" style="color: #4E8831;">AIRE ACONDICIONADO</h4>
-            <p>
+            <h4 class="text-center tit-saeo" style="color: #4E8831;">AIRE ACONDICIONADO</h4>
+            <p class="txt-saeo">
               <i class="fas fa-angle-double-right"></i> Equipos Completos A/A<br>
               <i class="fas fa-angle-double-right"></i> Condensadores<br>
               <i class="fas fa-angle-double-right"></i> Calefacciones Automotrices<br>
@@ -182,12 +175,12 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
 
             </p>
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <div class="imagen3">
               <!-- <img src="img/sistema.jpg"  class="img-responsive"> -->
             </div>
-            <h4 class="text-center" style="color: #4E8831;">ELÉCTRICO E ILUMINACIÓN</h4>
-            <p>
+            <h4 class="text-center tit-saeo" style="color: #4E8831;">ELÉCTRICO E ILUMINACIÓN</h4>
+            <p class="txt-saeo">
                <i class="fas fa-angle-double-right"></i> Acumuladores | Baterías<br>
                <i class="fas fa-angle-double-right"></i> Bomba de Gasolina<br>
                <i class="fas fa-angle-double-right"></i> Marchas<br>
@@ -204,12 +197,12 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
 
             </p>
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <div class="imagen4">
               <!-- <img src="img/sistema.jpg"  class="img-responsive"> -->
             </div>
-            <h4 class="text-center" style="color: #4E8831;">OTROS PRODUCTOS</h4>
-            <p>
+            <h4 class="text-center tit-saeo" style="color: #4E8831;">OTROS PRODUCTOS</h4>
+            <p class="txt-saeo">
               <i class="fas fa-angle-double-right"></i> Aceites Lubricantes Automotrices<br>
               <i class="fas fa-angle-double-right"></i> Balatas Fritec<br>
               <i class="fas fa-angle-double-right"></i> Herramientas<br>
@@ -226,38 +219,40 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
 
 <section class="seccion3" id="CONTACTO" style="background: #90a4ae; padding: 5%;">
 
-  <div class="container animated fadeIn">
+  <div class="container animated fadeIn con-con">
 
   <div class="row">
     <h1 class="header-title" style="text-transform: uppercase;"> Formulario de contacto</h1> <br>
     <p class="subtit" style="color: #fff;">Agradecemos su interés en nuestros productos y servicios. Nos gustaría escucharte y saber qué buscas para tu auto o flotilla, brindándote la información necesaria para que tomes la mejor decisión. Habla con un asesor especializado para que resuelva todas tus dudas y te ayude brindándote el servicio que se adapte a tus necesidades</p>
-    <hr> <br>
-    <div class="col-sm-12" id="parent">
-      <div class="col-sm-6">
+    <hr> <br class="delete-br">
+    <div class="col-sm-12 col-md-6" id="parent">
+      <div class="col-sm-6 col-md-6">
 
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d931.2762996712628!2d-89.69328937082277!3d20.98841539912627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5673505aa7b7ef%3A0x48a95828b5114060!2zQ2FsbGUgNjLhtKwsIENkIENhdWNlbCwgOTczMTQgTcOpcmlkYSwgWXVjLg!5e0!3m2!1ses-419!2smx!4v1524506860777" width="100%" height="320px" frameborder="0" style="border:0" allowfullscreen></iframe>
       
       </div>
 
-      <div class="col-sm-6">
-        <form action="form.php" class="contact-form" method="post">
+      <div class="col-sm-6 col-md-6">
+        <form action="form.php" class="contact-form" method="post" onSubmit="return false">
   
             <div class="form-group">
-              <input type="text" class="form-control" id="name" name="nm" placeholder="Nombre" required="" >
+              <input type="text" class="form-control" id="txtNOMBRE" name="nm" placeholder="Nombre" required="" >
             </div>
         
         
             <div class="form-group form_left">
-              <input type="email" class="form-control" id="email" name="em" placeholder="Correo" required="">
+              <input type="email" class="form-control" id="txtCORREO" name="em" placeholder="Correo" required="">
             </div>
         
           <div class="form-group">
-               <input type="text" class="form-control" id="phone" maxlength="10" placeholder="Teléfono" required="">
+               <input type="text" class="form-control" id="txtTELEFONO" maxlength="10" placeholder="Teléfono" required="">
           </div>
           <div class="form-group">
-          <textarea class="form-control textarea-contact" rows="5" id="comment" name="FB" placeholder="Escribe tu comentario" required=""></textarea>
+          <textarea class="form-control textarea-contact" rows="5" id="txtCOMENTARIO" name="FB" placeholder="Escribe tu comentario" required=""></textarea>
+          
           <br>
-            <button class="btn btn-default btn-send"> <span class=" fab fa-telegram-plane"></span> Enviar </button>
+          <div id="_AJAX_PRE_"></div>
+            <button class="btn btn-default btn-send" onclick="sendCORREO()"> <span class=" fab fa-telegram-plane"></span> Enviar </button>
           </div>
         </form>
       </div>
@@ -265,9 +260,9 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
   </div>
 
   <div class="container second-portion">
-  <div class="row">
+  <div class="row cont-portion">
        
-      <div class="col-md-3">
+      <div class="col-sm-6 col-md-3">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
@@ -286,7 +281,7 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
       </div> 
     </div>
       
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fa fa-mobile" aria-hidden="true"></i></div>
@@ -303,8 +298,8 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
         <div class="space"></div>
       </div> 
     </div>
-      
-        <div class="col-md-3">
+      <div class="clearfix visible-sm"></div>
+        <div class="col-sm-6 col-md-3">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
@@ -319,7 +314,7 @@ El espíritu de la Empresa es la total satisfacción de los clientes y en lo int
       </div> 
     </div>
 
-    <div class="col-md-3">
+    <div class="col-sm-6 col-md-3">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fa fa-clock" aria-hidden="true"></i></div>

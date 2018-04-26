@@ -1,0 +1,690 @@
+@media screen and (max-width: 480px){
+
+/*********************MENU************************/
+	.menu{
+		height: 100%;
+	}
+
+	nav, .logo{
+		float: none !important;
+		position: relative !important;
+	}
+
+	nav{
+		position: fixed !important;
+		z-index: 3;
+		height: 100%;
+		width: 80%;
+		top: 0px;
+		left: 0px;
+		background:#4E8831;
+		overflow-x: auto;
+		display: none;
+		/*border: 2px solid green;*/
+		margin: 0px;
+		overflow-y: hidden;
+	}
+
+	nav ul{
+		width: 100%;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	nav ul .selector{
+		border-bottom:.5px solid #fff;
+		display: block;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 10px;
+		width: 150px;
+	}
+
+	.openclose{
+		
+		position: fixed;
+		right: 50px;
+		top: 20px;
+		cursor: pointer;
+		z-index: 3;
+		background: #fff;
+		padding: 10px;
+		display: block;
+	}
+
+	.openclose i{
+		font-size: 25px;
+	}	
+/******************END MENU***********************/
+
+/*********************INICIO************************/
+	.fondo, .banner{
+		height: 100%;
+	}
+
+	.tit-cc{
+		width: 100% !important;
+		font-size: 25px !important;
+	}
+
+	.subtit-cc{
+		font-size: 17px !important;
+		width: 100% !important;
+	}
+
+	.boton{
+		margin-bottom: 20px;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION1************************/
+	.leyenda p{
+		font-size: 18px;
+		text-align: justify;
+		padding: 0px 10px;
+		margin: 10px 0px !important;
+	}
+
+	.cont-i{
+		text-align: center;
+	}
+
+	.cont-i i{
+		font-size: 50px;
+	}
+
+	.tit-tva{
+		text-align: center;
+		font-weight: bold;
+		font-size: 20px;
+	}
+
+	.txt-tva{
+		text-align: justify;
+		/*border: 2px solid red;*/
+	}
+
+	/*.cont-img{
+		border: 2px solid red;
+	}*/
+
+	.cont-img img{
+		margin: auto !important;
+	}
+
+	.tit-n{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit-n{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.txt-n{
+		text-align: justify;
+		font-size: 16px;
+	}
+/******************END SECCION1***********************/
+
+/*********************SECCION2************************/
+
+	.delete-br{
+		display: none;
+	}
+
+	.tit-p{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit{
+		text-align: justify;
+	}
+
+	.cont-sec2{
+		padding: 0px !important;
+	}
+
+	.tit-saeo{
+		font-weight: bold;
+		padding-top: 10px 0px;
+	}
+
+	.txt-saeo{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION3************************/
+	.header-title{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	#parent{
+		padding: 0px;
+	}
+/******************END SECCION3***********************/
+
+/*********************FOOTER************************/
+	footer{
+		height: 100% !important;
+	}
+
+	footer p{
+		font-size: 18px;
+		margin:5px 0px;
+		padding: 0px 3px;
+	}
+/******************END FOOTER***********************/
+
+
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+/*********************MENU************************/
+	.menu{
+		height: 100%;
+	}
+
+	nav, .logo{
+		float: none !important;
+		position: relative !important;
+	}
+
+	nav{
+		position: fixed !important;
+		z-index: 3;
+		height: 100%;
+		width: 80%;
+		top: 0px;
+		left: 0px;
+		background:#4E8831;
+		overflow-x: auto;
+		display: none;
+		/*border: 2px solid green;*/
+		margin: 0px;
+		overflow-y: hidden;
+	}
+
+	nav ul{
+		width: 100%;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	nav ul .selector{
+		border-bottom:.5px solid #fff;
+		display: block;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 10px;
+		width: 190px;
+	}
+
+	.openclose{
+		
+		position: fixed;
+		right: 50px;
+		top: 20px;
+		cursor: pointer;
+		z-index: 3;
+		background: #fff;
+		padding: 10px;
+		display: block;
+	}
+
+	.openclose i{
+		font-size: 25px;
+	}	
+/******************END MENU***********************/
+
+/*********************INICIO************************/
+	.fondo, .banner{
+		height: 100%;
+	}
+
+	.tit-cc{
+		width: 100% !important;
+		font-size: 25px !important;
+	}
+
+	.subtit-cc{
+		font-size: 17px !important;
+		width: 100% !important;
+	}
+
+	.boton{
+		margin-bottom: 20px;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION1************************/
+	.leyenda p{
+		font-size: 18px;
+		text-align: justify;
+		padding: 0px 10px;
+		margin: 10px 0px !important;
+	}
+
+	.cont-i{
+		text-align: center;
+	}
+
+	.cont-i i{
+		font-size: 50px;
+	}
+
+	.tit-tva{
+		text-align: center;
+		font-weight: bold;
+		font-size: 20px;
+	}
+
+	.txt-tva{
+		text-align: justify;
+		/*border: 2px solid red;*/
+	}
+
+	/*.cont-img{
+		border: 2px solid red;
+	}*/
+
+	.cont-img img{
+		margin: auto !important;
+	}
+
+	.tit-n{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit-n{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.txt-n{
+		text-align: justify;
+		font-size: 16px;
+	}
+/******************END SECCION1***********************/
+
+/*********************SECCION2************************/
+
+	.delete-br{
+		display: none;
+	}
+
+	.tit-p{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit{
+		text-align: justify;
+	}
+
+	.cont-sec2{
+		padding: 0px !important;
+	}
+
+	.tit-saeo{
+		font-weight: bold;
+		padding-top: 10px 0px;
+	}
+
+	.txt-saeo{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION3************************/
+	.header-title{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	#parent{
+		padding: 0px;
+	}
+/******************END SECCION3***********************/
+
+/*********************FOOTER************************/
+	footer{
+		height: 100% !important;
+	}
+
+	footer p{
+		font-size: 18px;
+		margin:5px 0px;
+		padding: 0px 5px;
+	}
+/******************END FOOTER***********************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+	/*********************MENU************************/
+	.menu{
+		height: 100%;
+	}
+
+	nav, .logo{
+		float: none !important;
+		position: relative !important;
+	}
+
+	nav{
+		position: fixed !important;
+		z-index: 3;
+		height: 100%;
+		width: 80%;
+		top: 0px;
+		left: 0px;
+		background:#4E8831;
+		overflow-x: auto;
+		display: none;
+		/*border: 2px solid green;*/
+		margin: 0px;
+		overflow-y: hidden;
+	}
+
+	nav ul{
+		width: 100%;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	nav ul .selector{
+		border-bottom:.5px solid #fff;
+		display: block;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 10px;
+		width: 190px;
+	}
+
+	.openclose{
+		
+		position: fixed;
+		right: 50px;
+		top: 20px;
+		cursor: pointer;
+		z-index: 3;
+		background: #fff;
+		padding: 10px;
+		display: block;
+	}
+
+	.openclose i{
+		font-size: 25px;
+	}	
+/******************END MENU***********************/
+
+/*********************INICIO************************/
+	.fondo, .banner{
+		height: 100%;
+	}
+
+	.tit-cc{
+		width: 100% !important;
+		font-size: 25px !important;
+	}
+
+	.subtit-cc{
+		font-size: 17px !important;
+		width: 100% !important;
+	}
+
+	.boton{
+		margin-bottom: 20px;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION1************************/
+	.leyenda p{
+		font-size: 18px;
+		text-align: justify;
+		padding: 0px 10px;
+		margin: 10px 0px !important;
+	}
+
+	.cont-i{
+		text-align: center;
+	}
+
+	.cont-i i{
+		font-size: 50px;
+	}
+
+	.tit-tva{
+		text-align: center;
+		font-weight: bold;
+		font-size: 20px;
+	}
+
+	.txt-tva{
+		text-align: center;
+	}
+
+	/*.cont-img{
+		border: 2px solid red;
+	}*/
+
+	.cont-img img{
+		margin: auto !important;
+	}
+
+	.tit-n{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit-n{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.txt-n{
+		text-align: justify;
+		font-size: 16px;
+	}
+/******************END SECCION1***********************/
+
+/*********************SECCION2************************/
+
+	.delete-br{
+		display: none;
+	}
+
+	.tit-p{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit{
+		text-align: justify;
+	}
+
+	.cont-sec2{
+		padding: 0px !important;
+	}
+
+	.tit-saeo{
+		font-weight: bold;
+		padding-top: 10px 0px;
+	}
+
+	.txt-saeo{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION3************************/
+	.header-title{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	#parent{
+		padding: 0px;
+	}
+
+	.seccion3{
+		padding: 0px !important;
+	}
+
+	.seccion3 .con-con{
+		margin: auto !important;
+	}
+
+	.second-portion, .cont-portion{
+		width: 100%;
+		margin: 10px auto;
+	}
+
+/******************END SECCION3***********************/
+
+/*********************FOOTER************************/
+	footer{
+		height: 100% !important;
+	}
+
+	footer p{
+		font-size: 18px;
+		margin:5px 0px;
+		padding: 0px 5px;
+	}
+/******************END FOOTER***********************/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+/*********************INICIO************************/
+	.fondo, .banner{
+		height: 100%;
+	}
+
+	.tit-cc{
+		width: 100% !important;
+		font-size: 25px !important;
+	}
+
+	.subtit-cc{
+		font-size: 17px !important;
+		width: 100% !important;
+	}
+
+	.boton{
+		margin-bottom: 20px;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION1************************/
+	.leyenda p{
+		font-size: 18px;
+		text-align: justify;
+		padding: 0px 10px;
+		margin: 10px 0px !important;
+	}
+
+	.cont-i{
+		text-align: center;
+	}
+
+	.cont-i i{
+		font-size: 50px;
+	}
+
+	.tit-tva{
+		text-align: center;
+		font-weight: bold;
+		font-size: 20px;
+	}
+
+	.txt-tva{
+		text-align: center;
+	}
+
+	/*.cont-img{
+		border: 2px solid red;
+	}*/
+
+	.cont-img img{
+		margin: auto !important;
+	}
+
+	.tit-n{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit-n{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.txt-n{
+		text-align: justify;
+		font-size: 16px;
+	}
+/******************END SECCION1***********************/
+
+/*********************SECCION2************************/
+
+	.delete-br{
+		display: none;
+	}
+
+	.tit-p{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit{
+		text-align: justify;
+	}
+
+	.cont-sec2{
+		padding: 0px !important;
+	}
+
+	.tit-saeo{
+		font-weight: bold;
+		padding-top: 10px 0px;
+	}
+
+	.txt-saeo{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+/******************END SECCION2***********************/
+
+	
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+	
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }
